@@ -43,7 +43,7 @@ a:hover {
 .fixed{
   position: fixed;
   left: 100px;
-  bottom: 600px;
+  bottom: 450px;
 }
 .text-xs {
   font-size: 12px !important;
